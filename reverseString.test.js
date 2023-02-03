@@ -15,4 +15,3 @@ test('reverses the string "12345678"', () => {
 test('reverses the string "hellolleh"', () => {
   expect(reverseString("asdf!@#$")).toBe("$#@!fdsa");
 });
-
